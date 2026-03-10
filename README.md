@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CI](https://github.com/blackboxprogramming/blackroad-api-sdks/actions/workflows/ci.yml/badge.svg)](https://github.com/blackboxprogramming/blackroad-api-sdks/actions/workflows/ci.yml)
 [![GitHub stars](https://img.shields.io/github/stars/blackboxprogramming/blackroad-api-sdks.svg?style=social&label=Star)](https://github.com/blackboxprogramming/blackroad-api-sdks)
 [![GitHub forks](https://img.shields.io/github/forks/blackboxprogramming/blackroad-api-sdks.svg?style=social&label=Fork)](https://github.com/blackboxprogramming/blackroad-api-sdks/fork)
 
@@ -76,8 +76,4 @@ Full API docs: https://blackroad.io/docs
 
 ## License
 
-MIT License
-
----
-
-Part of the **BlackRoad Empire** 🚀
+Proprietary — BlackRoad OS, Inc. All rights reserved.
